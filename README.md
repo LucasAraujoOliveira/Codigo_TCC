@@ -1,2 +1,2 @@
 # Codigo_TCC
-Código implementado no TCC
+O código foi implementado no ArduinoIDE, versão legacy 1.8.19
